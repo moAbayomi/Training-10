@@ -32,6 +32,7 @@ contract ERC20 {
         name = _name;
         symbol = _symbol;
         // decimal should be init to 18 i guess ?
+        // since 1 eth == 1 * 10**18 wei ... and so on and so forth ...
         decimals = _decimal;
         // so that
         // totalsupply => initialSupply * 10^18;
