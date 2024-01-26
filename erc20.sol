@@ -89,7 +89,7 @@ contract ERC20 {
         // condition to see if indeed address from has allowed the caller &&
         // if they are not exceeding the allowance value/limit ... in that if they are allowed 40 and trying to spend 42.
         require(
-            addressToAllowance[from][msg.sender] <= value,
+            addressToAllowance[from][msg.sender] >= value,
             "you are not approved this much tokens sorry"
         );
 
