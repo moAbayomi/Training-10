@@ -6,6 +6,8 @@ This Solidity contract implements the ERC-20 standard, providing a common interf
 
 ## Overview
 
+contract deployed to here on the arbitrum sepolia chain: `0xc9808eA2d1C71D6B45dBB287ADEA6c09a35f54E6`
+
 The contract is deployed with the following parameters:
 
 - **Name:** MUHd20
