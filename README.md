@@ -6,7 +6,11 @@ This Solidity contract implements the ERC-20 standard, providing a common interf
 
 ## Overview
 
-contract deployed to here on the arbitrum sepolia chain: `0xc9808eA2d1C71D6B45dBB287ADEA6c09a35f54E6`
+contract deployed and verified to here on the arbitrum sepolia chain: `0xc9808eA2d1C71D6B45dBB287ADEA6c09a35f54E6`
+![image](https://github.com/moAbayomi/Training-10/assets/114200127/a768d17c-90a1-433d-8cd5-682b52aefb5c)
+![image](https://github.com/moAbayomi/Training-10/assets/114200127/96b09a03-6a2d-4a6b-ae91-2994c8aba947)
+
+
 
 The contract is deployed with the following parameters:
 
